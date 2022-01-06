@@ -1,3 +1,4 @@
+## Shil.me Mint Button
 
 At Shil.me, we believe in an accessible future for web3, where people are not constrained by pesky IDEs and programming languages, but are free to roam the endless plains of the Verse with their creativity.
 
@@ -19,7 +20,7 @@ Shil.me is the first link-in-bio platform for shilling your NFTs in the Metavers
 
 Create your own Metaverse gallery for FREE at shil.me/join.
 
-##How to use the button?
+## How to use the button?
 
 1. To use the button, you must first get the ABI and contract address for your collection contract.
 
