@@ -41,7 +41,7 @@ import {MintButton} from 'shil-me-mint-button';
 	singleMintPriceInWei="10000000000000000"
 	buttonStyle={{
 		background: 'linear-gradient(to right, #eecda3, #ef629f);'
-    }}
+    	}}
 	ADDRESS={ADDRESS}
 	ABI={ABI} />
 ```
