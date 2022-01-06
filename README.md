@@ -7,11 +7,11 @@ The Shil.me Mint Button is a free-to-use, customizable React component which all
 
 Shil.me Mint Button is a lot of things, but most importantly it's:
 
-💸 Free forever, and ever, and ever, and ever, and ever, and ever, and...
-🎨 Fully-customizable
-📒 Open-source
-🖼 Powered by Shil.me
-⚡️ Jitter ⚡
+- 💸 Free forever, and ever, and ever, and ever, and ever, and ever, and...
+- 🎨 Fully-customizable
+- 📒 Open-source
+- 🖼 Powered by Shil.me
+- ⚡️ Jitter ⚡
 
 If you're seeing this, also make sure to follow us on Twitter at @ShilMeHQ and check out Shil.me.
 
