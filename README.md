@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/shil-me-mint-button.png)](https://www.npmjs.com/package/shil-me-mint-button)
+
 ## Shil.me Mint Button
 
 At Shil.me, we believe in an accessible future for web3, where people are not constrained by pesky IDEs and programming languages, but are free to roam the endless plains of the Verse with their creativity.
@@ -28,7 +30,7 @@ You can do this easily by going to Remix, and hitting `Copy ABI` in the Compile 
 
 2. After you get your ABI and contract address, you need to configure your button as:
 
-```
+```javascript
 import {MintButton} from 'shil-me-mint-button';
 
 <MintButton 
